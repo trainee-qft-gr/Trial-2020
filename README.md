@@ -1,2 +1,2 @@
-# Trial-2020
-What I am currently doing in physics
+# Trial_2020
+Topics I pondered and did my calculation on in a blog-esque fashion
